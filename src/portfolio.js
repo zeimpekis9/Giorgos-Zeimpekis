@@ -264,7 +264,7 @@ const achievementSection = {
     },
 
     {
-      title: "Sports Management with Emphasis on Entrepreneurship and Innovation"
+      title: "Sports Management with Emphasis on Entrepreneurship and Innovation",
       image: require("./assets/images/sports_management.jpg"),
       imageAlt: "Sports Management Logo",
       footerLink: [
