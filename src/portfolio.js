@@ -133,7 +133,7 @@ const educationInfo = {
     },
     {
       schoolName: "University of Aegean",
-      logo: require("./assets/images/uaegeanLogo.png"),
+      logo: require("./assets/images/uaegeanLogo.webp"),
       subHeader: "MSc in Information and Communication Systems",
       duration: "September 2023 - June 2025"
     }
@@ -169,21 +169,21 @@ const workExperiences = {
     {
       role: "Project Manager",
       company: "University of Aegean",
-      companylogo: require("./assets/images/uaegeanLogo.png"),
+      companylogo: require("./assets/images/uaegeanLogo.webp"),
       date: "2019 – 2023",
       desc: "Financial Management and Organizational Support for the ENIRISST Project"
     },
     {
       role: "Project Manager",
       company: "University of Aegean",
-      companylogo: require("./assets/images/uaegeanLogo.png"),
+      companylogo: require("./assets/images/uaegeanLogo.webp"),
       date: "2021 – 2023",
       desc: "Financial Management and Organizational Support for the ENIRISST Plus Project"
     },
     {
       role: "Project Manager",
       company: "University of Aegean",
-      companylogo: require("./assets/images/uaegeanLogo.png"),
+      companylogo: require("./assets/images/uaegeanLogo.webp"),
       date: "2022 – 2024",
       desc: "Financial Management and Organizational Support for the ResPorts Project"
     }
@@ -205,7 +205,7 @@ const bigProjects = {
   subtitle: "SOME RESEARCH PROJECTS THAT I MANAGED",
   projects: [
     {
-      image: require("./assets/images/uaegeanLogo.png"),
+      image: require("./assets/images/uaegeanLogo.webp"),
       projectName: "ENIRISST",
       projectDesc: "Intelligent Research Infrastructure for Shipping, Supply Chain, Transport & Logistics",
       footerLink: [
@@ -217,7 +217,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/uaegeanLogo.png"),
+      image: require("./assets/images/uaegeanLogo.webp"),
       projectName: "ENIRISST Plus",
       projectDesc: "Intelligent Research Infrastructure for Shipping, Supply Chain, Transport & Logistics (Plus)",
       footerLink: [
