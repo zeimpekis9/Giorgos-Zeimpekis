@@ -135,7 +135,7 @@ const educationInfo = {
       schoolName: "University of Aegean",
       logo: require("./assets/images/uaegeanLogo.webp"),
       subHeader: "MSc in Information and Communication Systems",
-      duration: "September 2023 - June 2025"
+      duration: "September 2023 - Present"
     }
   ]
 };
